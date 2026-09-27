@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CatBoost generated files
+catboost_info/
+
+# Submission files
+submission.csv
+submission_decomposition.csv
+submission_removal.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment / IDE
+.env
+.vscode/
